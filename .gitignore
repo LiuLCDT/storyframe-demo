@@ -4,3 +4,8 @@ dist/
 playwright-report/
 test-results/
 .DS_Store
+
+# Large submission artifacts stay local
+deliverables/*.pdf
+deliverables/*.webm
+deliverables/*.png
